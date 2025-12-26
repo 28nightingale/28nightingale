@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=28nightingale)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
@@ -33,45 +31,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-🌆 Daytime                34 commits          ███████████░░░░░░░░░░░░░░   43.04 % 
-🌃 Evening                31 commits          ██████████░░░░░░░░░░░░░░░   39.24 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Tuesday                  9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Thursday                 23 commits          ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-Friday                   19 commits          ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -87,5 +46,5 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/28nightingale/28nightingale/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2025 05:21:33 UTC
+ Last Updated on 26/12/2025 18:50:11 UTC
 <!--END_SECTION:waka-->
