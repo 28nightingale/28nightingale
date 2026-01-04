@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=28nightingale)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
@@ -31,6 +33,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+🌆 Daytime                37 commits          ███████████░░░░░░░░░░░░░░   44.58 % 
+🌃 Evening                32 commits          ██████████░░░░░░░░░░░░░░░   38.55 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Tuesday                  9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Thursday                 23 commits          ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Friday                   22 commits          ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+Saturday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -46,5 +87,5 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/28nightingale/28nightingale/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:49:19 UTC
+ Last Updated on 04/01/2026 18:49:16 UTC
 <!--END_SECTION:waka-->
