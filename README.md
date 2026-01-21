@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-52%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -87,5 +87,5 @@ Java                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/28nightingale/28nightingale/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2026 19:42:22 UTC
+ Last Updated on 21/01/2026 19:04:33 UTC
 <!--END_SECTION:waka-->
