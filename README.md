@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=28nightingale)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -33,45 +31,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-🌆 Daytime                59 commits          ██████████████░░░░░░░░░░░   54.13 % 
-🌃 Evening                35 commits          ████████░░░░░░░░░░░░░░░░░   32.11 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Wednesday                11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Thursday                 36 commits          ████████░░░░░░░░░░░░░░░░░   33.03 % 
-Friday                   24 commits          ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -87,5 +46,5 @@ Java                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/28nightingale/28nightingale/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 18:54:42 UTC
+ Last Updated on 01/02/2026 18:59:31 UTC
 <!--END_SECTION:waka-->
